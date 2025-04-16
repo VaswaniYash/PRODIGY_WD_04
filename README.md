@@ -8,8 +8,8 @@ Welcome to my **responsive portfolio website**, built using **HTML, CSS, and Jav
 ---
 
 ## 🚀 Live Preview  
-👉 [View Portfolio Website](https://your-username.github.io/portfolio-website)  
-*(Replace with your actual GitHub Pages link)*
+👉 [View Portfolio Website](https://github.com/VaswaniYash/PRODIGY_WD_04)  
+
 
 ---
 
@@ -58,7 +58,7 @@ Personal_Portfolio/
 ## 📦 How to Run
 
 1. Clone the repository:
-```bash
+bash
 git clone https:https://github.com/VaswaniYash/PRODIGY_WD_04
 
 2.	Open index.html in your browser to view the site.
